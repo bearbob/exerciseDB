@@ -19,6 +19,9 @@ Just import the JSON files in `/collections` into your project and get going.
   "name": {
     "en": "string"
   },
+  "description": {
+    "en": "string"
+  }
   "instructions": {
     "text": []{
       "en": "string"
